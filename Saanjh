@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Screenshot (21).png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SAANJH - Stories of East | Discover Asian Heritage</title>
+    <meta name="description" content="Immerse yourself in the rich cultural heritage of Asia. Explore traditions, shop authentic crafts, join festivals, and learn ancient wellness practices from 45+ Asian countries." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-RR3RbAr9.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BqF_eDg3.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
